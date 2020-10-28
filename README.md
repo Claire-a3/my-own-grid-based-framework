@@ -26,11 +26,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Patrick Nyatindo**
+👤 **Claire-a3**
 
-- Github: [@githubhandle](https://github.com/nyatindopatrick)
-- Twitter: [@twitterhandle](https://twitter.com/nyatindopatrick)
-- Linkedin: [linkedin](https://linkedin.com/in/nyatindopatrick)
+- Github: [@githubhandle](https://github.com/Claire-a3)
+- Twitter: [@twitterhandle](https://twitter.com/ClaireAkinyi3)
+- Linkedin: [linkedin](https://linkedin.com/in/MaryClaireAkinyi)
 
 ## 🤝 Contributing
 
@@ -41,12 +41,3 @@ Feel free to check the [issues page](https://github.com/nyatindopatrick/the-news
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Mictoverse TSC
-- newsweek.com
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
