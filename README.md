@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nyatindopatrick/the-news-week-clone/issues).
+Feel free to check the [issues page](https://github.com/Claire-a3/my-own-grid-based-framework/issues/1).
 
 ## Show your support
 
